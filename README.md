@@ -1,1 +1,1 @@
-#Boilerplate GAN in Pytorch
+Boilerplate GAN in Pytorch
